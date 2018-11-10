@@ -1,0 +1,7 @@
+#Wed Nov 29 20:02:22 CST 2017
+base.0=D\:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0cc2b6cc094544509a84fb3af4a85bf202ad38db
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7475658e775891cfdbfddb06b78de373cbebd471\\classes.dex
+base.1=D\:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7475658e775891cfdbfddb06b78de373cbebd471
+file.0=D\:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0cc2b6cc094544509a84fb3af4a85bf202ad38db\\classes.dex
