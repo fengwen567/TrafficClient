@@ -2,5 +2,9 @@
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
 ]

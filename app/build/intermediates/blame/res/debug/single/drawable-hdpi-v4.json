@@ -1,39 +1,43 @@
 [
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sibalu.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\sibalu.jpg"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biyadi.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\biyadi.jpg"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fengtian.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\fengtian.jpg"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sanling.jpg",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\sanling.jpg"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bentian.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\bentian.jpg"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tesila.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\tesila.jpg"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richan.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\richan.jpg"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baoma.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\baoma.jpg"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dazhong.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\dazhong.jpg"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fute.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\fute.jpg"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\benchi.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\benchi.jpg"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\benchi.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\benchi.jpg"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fengtian.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\fengtian.jpg"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qirui.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\qirui.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiandai.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\xiandai.jpg"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhonghua.jpg",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\zhonghua.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audi.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\audi.jpg"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tesila.jpg",
@@ -44,16 +48,16 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\xuefulan.jpg"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voervo.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\voervo.jpg"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biyadi.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\biyadi.jpg"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leftitem_font_selector.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\leftitem_font_selector.xml"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biaozhi.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\biaozhi.jpg"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sibalu.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\sibalu.jpg"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fute.jpg",
@@ -64,23 +68,103 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\xiandai.jpg"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bieke.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\bieke.jpg"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audi.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\audi.jpg"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biaozhi.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\biaozhi.jpg"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baoma.jpg",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\baoma.jpg"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qirui.jpg",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\qirui.jpg"
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audi.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\audi.jpg"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mazhida.jpg",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\mazhida.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voervo.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\voervo.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dazhong.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\dazhong.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sibalu.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\sibalu.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biyadi.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\biyadi.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bentian.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\bentian.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richan.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\richan.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sanling.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\sanling.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leftitem_font_selector.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\leftitem_font_selector.xml"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dazhong.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\dazhong.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\benchi.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\benchi.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mazhida.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\mazhida.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xuefulan.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\xuefulan.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fengtian.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\fengtian.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voervo.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\voervo.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biaozhi.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\biaozhi.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bieke.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\bieke.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bieke.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\bieke.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhonghua.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\zhonghua.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bentian.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\bentian.jpg"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qirui.jpg",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\qirui.jpg"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richan.jpg",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\richan.jpg"
     }
 ]

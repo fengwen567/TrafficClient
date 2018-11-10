@@ -4,10 +4,6 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\fragment_7_pec.xml"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_layout.xml",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\menu_layout.xml"
-    },
-    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
@@ -16,44 +12,44 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\loading_dialog.xml"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_layout.xml",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\content_layout.xml"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_7_pec.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\fragment_7_pec.xml"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reg.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\activity_reg.xml"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_layout.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\menu_layout.xml"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_setting.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\login_setting.xml"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left_list_fragment_item.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\left_list_fragment_item.xml"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\activity_guide.xml"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_1.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\fragment_1.xml"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_fg1.xml",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\lv_fg1.xml"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reg.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\activity_reg.xml"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_7.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\fragment_7.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fg1.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\dialog_fg1.xml"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bus.xml",
@@ -62,5 +58,73 @@
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fg1.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\dialog_fg1.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_1.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_layout.xml",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\menu_layout.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_7.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\fragment_7.xml"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_layout.xml",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\content_layout.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_fg1.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\lv_fg1.xml"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bus.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\fragment_bus.xml"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_fg1.xml",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\layout\\lv_fg1.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left_list_fragment_item.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\left_list_fragment_item.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_layout.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\content_layout.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_setting.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\login_setting.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]

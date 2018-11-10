@@ -1,4 +1,4 @@
-#Sat Nov 10 16:44:22 CST 2018
-base.0=G\:\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sat Nov 10 16:56:36 CST 2018
+base.0=B\:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=G\:\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=B\:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

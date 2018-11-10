@@ -33,6 +33,7 @@ import com.mad.trafficclient.fragment.FragmentHome;
 import com.mad.trafficclient.fragment.Fragment_1;
 import com.mad.trafficclient.fragment.Fragment_7;
 import com.mad.trafficclient.fragment.Fragment_bus;
+import com.mad.trafficclient.fragment.Fragment_car;
 
 
 /**
@@ -93,11 +94,13 @@ public class Activity_Main extends FragmentActivity {
                 "账号管理",
                 "数据分析",
                 getString(R.string.res_left_exit),
-                "公交查询"
+                "公交查询",
+                "车辆查询"
         };
         int[] actionImages = new int[]{
                 R.drawable.btn_l_star,
                 R.drawable.btn_l_book,
+                R.drawable.btn_l_download,
                 R.drawable.btn_l_download,
                 R.drawable.btn_l_download
         };
@@ -123,8 +126,8 @@ public class Activity_Main extends FragmentActivity {
 
             @Override
             public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
-                Map map=actionItems.get(arg2);
-                String str= (String) map.get("action_name");
+                Map map = actionItems.get(arg2);
+                String str = (String) map.get("action_name");
                 Log.e("str", str);
                 tV_title.setText(str);
                 // TODO Auto-generated method stub
@@ -132,16 +135,23 @@ public class Activity_Main extends FragmentActivity {
                     getSupportFragmentManager().beginTransaction().replace(R.id.maincontent, new Fragment_1()).commit();
 //                    tV_title.setText(actionTexts[arg2]);
 
-                }else if (str.equals("数据分析")) {
+                } else if (str.equals("数据分析")) {
                     getSupportFragmentManager().beginTransaction().replace(R.id.maincontent, new Fragment_7()).commit();
 //                    tV_title.setText(actionTexts[arg2]);
-                }else if (str.equals("公交查询")) {
+                } else if (str.equals("公交查询")) {
                     getSupportFragmentManager().beginTransaction().replace(R.id.maincontent, new Fragment_bus()).commit();
 
-                }else if (str.equals("用户退出")) {
-                    exitAppDialog();
+                } else if (str.equals("车辆查询")) {
+                    getSupportFragmentManager().beginTransaction().replace(R.id.maincontent, new Fragment_car()).commit();
 
                 } else {
+
+                    if (str.equals("用户退出")) {
+                        exitAppDialog();
+
+                    } else {
+
+                    }
                 }
                 slidepanel.closePane();
             }

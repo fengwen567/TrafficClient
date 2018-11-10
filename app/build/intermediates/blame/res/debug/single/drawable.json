@@ -1,7 +1,19 @@
 [
     {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linear.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable\\linear.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_red.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable\\bar_red.xml"
+    },
+    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_red.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable\\bar_red.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable\\type.xml"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type.xml",
@@ -14,5 +26,9 @@
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linear.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable\\linear.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_green.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable\\bar_green.xml"
     }
 ]

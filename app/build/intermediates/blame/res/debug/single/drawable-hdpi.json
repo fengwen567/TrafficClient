@@ -4,12 +4,12 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\change.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang03.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang03.png"
-    },
-    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\login.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm5.png",
@@ -20,28 +20,24 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_tag.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_parking.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_parking.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\idea.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\idea.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cartwo.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\cartwo.png"
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_parking.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_parking.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon102.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon102.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_share.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_share.png"
-    },
-    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm4.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm4.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_book.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_book.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon105.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon105.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon101.png",
@@ -52,20 +48,12 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_slideshow.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_star.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_star.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_etc.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_etc.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang04.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang04.png"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add2.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\add2.png"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\r.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\r.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_lamp.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_lamp.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_etc.png",
@@ -76,12 +64,12 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_1.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_speed.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_speed.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\flash.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\flash.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_4.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_4.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_skype.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_skype.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_download.png",
@@ -100,8 +88,276 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\flash.png"
     },
     {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_tumblr.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_tumblr.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon103.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon103.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_target.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_target.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add2.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\add2.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_4.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_4.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_download.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_download.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_windows.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_windows.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_skype.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_skype.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm2.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm2.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang04.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang04.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\x_y.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\x_y.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon102.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon102.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm1.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm1.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_light.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_light.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon104.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon104.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_arrows.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_arrows.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carone.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\carone.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang01.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang01.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cartwo.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\cartwo.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang03.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang03.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_3.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_3.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\p.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_suitcase.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_suitcase.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_twitter.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_twitter.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_suitcase.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_suitcase.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_upload.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_upload.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_target.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_target.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm3.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm3.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_2.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_2.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_arrows.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_arrows.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_grid.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_grid.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang03.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang03.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\x_y.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\x_y.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_speed.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_speed.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm2.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm2.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang02.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang02.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_book.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_book.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cartwo.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\cartwo.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_tag.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_tag.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_share.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_share.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\r.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\r.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_twitter.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_twitter.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_grid.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_grid.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_book.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_book.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\x_z.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\x_z.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_busstop.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_busstop.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\change.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\change.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm1.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm1.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_star.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_star.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang04.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang04.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add2.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\add2.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\r.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\r.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_star.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_star.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm4.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm4.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_speed.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_speed.png"
+    },
+    {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_4.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_4.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_speech_3.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_speech_3.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_1.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_1.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang01.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang01.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_share.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_share.png"
+    },
+    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_trafic.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_trafic.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\back.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_upload.png",
@@ -116,10 +372,6 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_light.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_windows.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_windows.png"
-    },
-    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon105.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon105.png"
     },
@@ -128,84 +380,84 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_3.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_skype.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_skype.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plus.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm2.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm2.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm5.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm5.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\x_y.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\x_y.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_windows.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_windows.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm1.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm1.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\option_checked.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\option_checked.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_icon.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\video_icon.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\idea.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\idea.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon104.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon104.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_2.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_2.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\home.png"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carone.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\carone.png"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang01.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang01.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_user.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_user.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_trafic.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_trafic.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_parking.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_parking.png"
+    },
+    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_tumblr.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_tumblr.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\x_z.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\x_z.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon101.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon101.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wm3.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\wm3.png"
     },
     {
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\x_z.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\x_z.png"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon104.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon104.png"
+    },
+    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plus.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_twitter.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_twitter.png"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_suitcase.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_suitcase.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\login.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_target.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_target.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_slideshow.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_slideshow.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p.png",
@@ -216,24 +468,16 @@
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\video_icon.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_arrows.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_arrows.png"
-    },
-    {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_2.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\icon_2.png"
-    },
-    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weizhang02.png",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\weizhang02.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_user.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_user.png"
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carone.png",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\carone.png"
     },
     {
-        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_grid.png",
-        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_grid.png"
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_l_user.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-hdpi\\btn_l_user.png"
     },
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\option_checked.png",

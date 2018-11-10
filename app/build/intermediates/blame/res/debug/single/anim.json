@@ -1,5 +1,13 @@
 [
     {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\anim\\in.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\anim\\out.xml"
+    },
+    {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\anim\\out.xml"
     },

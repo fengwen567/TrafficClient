@@ -2,5 +2,9 @@
     {
         "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "G:\\TrafficClient\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "B:\\softwaredata\\AndroidStudioProjects\\TrafficClient\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]
