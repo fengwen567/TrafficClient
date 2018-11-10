@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\TrafficClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "G:\\TrafficClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,33 +12,7 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "E:\\TrafficClient\\app\\src\\main\\res\\values-v11\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 183,
-                        "endLine": 8,
-                        "endColumn": 12,
-                        "endOffset": 317
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 187
-                },
-                "from": {
-                    "file": "D:\\workspaceandroidstudio\\TrafficClient\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "G:\\TrafficClient\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

@@ -19,7 +19,7 @@
         android:name=".App"
         android:theme="@style/AppTheme" >
         
-        <activity android:name="com.mad.trafficclient.activity.Activity_Guide">
+        <activity android:name="com.mad.trafficclient.activity.Activity_Main">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,7 +27,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.mad.trafficclient.activity.Activity_Main"
+            android:name="com.mad.trafficclient.activity.Activity_Guide"
             android:label="@string/app_title" />
         <activity
             android:name="com.mad.trafficclient.activity.Activity_Login"

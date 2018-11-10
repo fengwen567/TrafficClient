@@ -32,6 +32,7 @@ import com.mad.trafficclient.R;
 import com.mad.trafficclient.fragment.FragmentHome;
 import com.mad.trafficclient.fragment.Fragment_1;
 import com.mad.trafficclient.fragment.Fragment_7;
+import com.mad.trafficclient.fragment.Fragment_bus;
 
 
 /**
@@ -91,11 +92,13 @@ public class Activity_Main extends FragmentActivity {
         final String[] actionTexts = new String[]{
                 "账号管理",
                 "数据分析",
-                getString(R.string.res_left_exit)
+                getString(R.string.res_left_exit),
+                "公交查询"
         };
         int[] actionImages = new int[]{
                 R.drawable.btn_l_star,
                 R.drawable.btn_l_book,
+                R.drawable.btn_l_download,
                 R.drawable.btn_l_download
         };
 
@@ -106,11 +109,11 @@ public class Activity_Main extends FragmentActivity {
             item1.put("action_name", actionTexts[i]);
             actionItems.add(item1);
         }
-        String userRole= App.appContext.getSharedPreferences("setting", Context.MODE_APPEND).getString("userRole", null);
-        Log.e("userRole", userRole);
-        if (TextUtils.equals("R01",userRole)){
-            actionItems.remove(2);
-        }
+//        String userRole= App.appContext.getSharedPreferences("setting", Context.MODE_APPEND).getString("userRole", null);
+//
+//        if (TextUtils.equals("R01",userRole)){
+//            actionItems.remove(2);
+//        }
         actionAdapter = new SimpleAdapter(getApplicationContext(), actionItems, R.layout.left_list_fragment_item,
                 new String[]{"action_icon", "action_name"},
                 new int[]{R.id.recharge_method_icon, R.id.recharge_method_name});
@@ -132,6 +135,8 @@ public class Activity_Main extends FragmentActivity {
                 }else if (str.equals("数据分析")) {
                     getSupportFragmentManager().beginTransaction().replace(R.id.maincontent, new Fragment_7()).commit();
 //                    tV_title.setText(actionTexts[arg2]);
+                }else if (str.equals("公交查询")) {
+                    getSupportFragmentManager().beginTransaction().replace(R.id.maincontent, new Fragment_bus()).commit();
 
                 }else if (str.equals("用户退出")) {
                     exitAppDialog();

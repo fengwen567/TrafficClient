@@ -183,12 +183,13 @@ public final class R {
         public static final int fragment_1=0x7f030006;
         public static final int fragment_7=0x7f030007;
         public static final int fragment_7_pec=0x7f030008;
-        public static final int fragment_home=0x7f030009;
-        public static final int left_list_fragment_item=0x7f03000a;
-        public static final int loading_dialog=0x7f03000b;
-        public static final int login_setting=0x7f03000c;
-        public static final int lv_fg1=0x7f03000d;
-        public static final int menu_layout=0x7f03000e;
+        public static final int fragment_bus=0x7f030009;
+        public static final int fragment_home=0x7f03000a;
+        public static final int left_list_fragment_item=0x7f03000b;
+        public static final int loading_dialog=0x7f03000c;
+        public static final int login_setting=0x7f03000d;
+        public static final int lv_fg1=0x7f03000e;
+        public static final int menu_layout=0x7f03000f;
     }
     public static final class menu {
         public static final int main=0x7f0b0000;

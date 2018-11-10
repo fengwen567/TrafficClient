@@ -1,34 +1,18 @@
 [
     {
-        "merged": "D:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\touxiang_2.png",
-        "source": "D:\\workspaceandroidstudio\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\touxiang_2.png"
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\touxiang_1.png",
-        "source": "E:\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\touxiang_1.png"
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\touxiang_1.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\touxiang_1.png"
     },
     {
-        "merged": "D:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "D:\\workspaceandroidstudio\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\touxiang_2.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\touxiang_2.png"
     },
     {
-        "merged": "E:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\background.png",
-        "source": "E:\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
-    },
-    {
-        "merged": "E:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\touxiang_2.png",
-        "source": "E:\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\touxiang_2.png"
-    },
-    {
-        "merged": "E:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "E:\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\touxiang_1.png",
-        "source": "D:\\workspaceandroidstudio\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\touxiang_1.png"
-    },
-    {
-        "merged": "D:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\background.png",
-        "source": "D:\\workspaceandroidstudio\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\background.png",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
     }
 ]

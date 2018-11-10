@@ -1,10 +1,6 @@
 [
     {
-        "merged": "E:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\TrafficClient\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "D:\\workspaceandroidstudio\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "D:\\workspaceandroidstudio\\TrafficClient\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "G:\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "G:\\TrafficClient\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]
